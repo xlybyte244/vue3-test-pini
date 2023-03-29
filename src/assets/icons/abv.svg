@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>加油练</title>
+
+        <g id="课程讲义" transform="translate(-944.000000, -33.000000)">
+            <g id="编组-5" transform="translate(944.000000, 33.718750)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <g id="邮件" transform="translate(2.356611, 4.500000)" stroke="#22224C" stroke-width="1.5">
+                    <path d="M17.0204193,15 L2.26635967,15 C1.01466311,15 0,13.9853369 0,12.7334586 L0,2.26654144 C0,1.01466311 1.01466311,0 2.26635967,0 L17.0204193,0 C18.2721159,0 19.286779,1.01466311 19.286779,2.26654144 L19.286779,12.7334586 C19.286779,13.9853369 18.2721159,15 17.0204193,15 Z" id="Stroke-1"></path>
+                    <path d="M18.4428017,1.35864267 L11.4481338,8.35331063 C10.4512845,9.35015987 8.83531265,9.35015987 7.83864518,8.35331063 L0.843977218,1.35864267" id="Stroke-3" stroke-linecap="round"></path>
+                    <line x1="6.71617184" y1="7.5" x2="0.760524721" y2="13.3047746" id="Stroke-5" stroke-linecap="round"></line>
+                    <line x1="12.4580344" y1="7.5" x2="18.4136815" y2="13.3047746" id="Stroke-7" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+
+</svg>
